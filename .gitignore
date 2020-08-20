@@ -1,5 +1,6 @@
 # Adding config.py file.
 config.py
+weather_data/omitgituploadtest.txt
 
 # Addl files to ignore
 API_practice.ipynb
